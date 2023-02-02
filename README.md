@@ -7,12 +7,9 @@
 </p>
 - 🌱 I’m currently learning coding in Epita
 - My codepen profile : @cedric190703
-<style type="text/css">
-  .left{float:left;}
-</style>
-<div style="margin-top: 20px">
-   <img class="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cedric190703&layout=compact&show_icons=true&theme=radical" alt="stats">
-   <img class="left" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" alt="stats">
+<div style="margin-top: 30px">
+   <img style="padding: 20px" class="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cedric190703&layout=compact&show_icons=true&theme=radical" alt="stats">
+   <img style="padding: 20px" class="left" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" alt="stats">
 </div>
 
 <!---
