@@ -7,7 +7,7 @@
 </p>
 - 🌱 I’m currently learning coding in Epita
 - My codepen profile : @cedric190703
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cedric190703&theme=tokyonight)
+
 <!---
 cedric190703/cedric190703 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
