@@ -1,7 +1,3 @@
-<div style="margin-top: 30px">
-   <img style="padding: 20px" class="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cedric190703&layout=compact&show_icons=true&theme=radical" alt="stats">
-   <img style="padding: 20px" class="left" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" alt="stats">
-</div>
 - 👋 Hi, I’m @cedric190703
 - 👀 I’m interested in coding :
 <p align="center">
@@ -11,7 +7,10 @@
 </p>
 - 🌱 I’m currently learning coding in Epita
 - My codepen profile : @cedric190703
-
+<div style="margin-top: 30px" align="center">
+   <img style="padding: 20px" class="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cedric190703&layout=compact&show_icons=true&theme=radical" alt="stats">
+   <img style="padding: 20px" class="left" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" alt="stats">
+</div>
 <!---
 cedric190703/cedric190703 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
