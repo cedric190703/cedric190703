@@ -7,7 +7,7 @@
 </p>
 - 🌱 I’m currently learning coding in Epita
 - My codepen profile : @cedric190703
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cedric190703)](https://github.com/anuraghazra/github-readme-stats)
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cedric190703)]
 <!---
 cedric190703/cedric190703 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
