@@ -6,10 +6,10 @@
 <img src="https://masteringjs.io/assets/images/vue/vue.png" alt="Vue JS" height="40" style="vertical-align:top; margin:4px">
 </p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cedric190703&show_icons=true&theme=radical&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cedric190703&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cedric190703&show_icons=true&theme=radical&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cedric190703&repo=convoychat" />
 </a>
 - 🌱 I’m currently learning coding in Epita
 - My codepen profile : @cedric190703
