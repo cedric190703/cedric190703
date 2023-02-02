@@ -9,7 +9,7 @@
 - My codepen profile : @cedric190703
 <div style="margin-top: 30px" align="center">
    <img style="padding: 20px" class="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cedric190703&layout=compact&show_icons=true&theme=radical" alt="stats">
-   <img style="padding: 20px" class="left" src="https://github-readme-stats.vercel.app/api?username=cedric190703anuraghazra&show_icons=true&theme=radical" alt="stats">
+   <img style="padding: 20px" class="left" src="https://github-readme-stats.vercel.app/api?username=cedric190703&show_icons=true&theme=radical" alt="stats">
 </div>
 <!---
 cedric190703/cedric190703 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
