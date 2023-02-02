@@ -5,15 +5,10 @@
 <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://masteringjs.io/assets/images/vue/vue.png" alt="Vue JS" height="40" style="vertical-align:top; margin:4px">
 </p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cedric190703&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cedric190703&repo=convoychat" />
-</a>
 - 🌱 I’m currently learning coding in Epita
 - My codepen profile : @cedric190703
-
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" alt="stats" style="float:left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cedric190703&layout=compact&show_icons=true&theme=radical" alt="stats" style="float:left">
 <!---
 cedric190703/cedric190703 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
