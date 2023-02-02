@@ -5,9 +5,10 @@
 - <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 - <img src="https://masteringjs.io/assets/images/vue/vue.png" alt="Vue JS" height="40" style="vertical-align:top; margin:4px">
 </p>
+<img src="https://github-readme-stats.vercel.app/api?username=cedric190703" alt="stats">
 - 🌱 I’m currently learning coding in Epita
 - My codepen profile : @cedric190703
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cedric190703)]
+
 <!---
 cedric190703/cedric190703 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
