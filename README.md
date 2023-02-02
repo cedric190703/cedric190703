@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cedric190703
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on
+- 🌱 I’m currently learning coding in Epita
+- My codepen profile : @cedric190703
 
 <!---
 cedric190703/cedric190703 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
