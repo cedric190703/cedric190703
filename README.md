@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cedric190703
 - 👨‍💻️ I’m currently learning coding in Epita
 - 📧 You can email me at : cbrzyski2@gmail.com
-- <hr size="6">
+<hr size="6">
 - 👀 I’m interested in coding :
 <p align="center">
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
