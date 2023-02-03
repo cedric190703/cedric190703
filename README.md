@@ -10,10 +10,17 @@
 </p>
 <hr size="6">
 - My codepen profile : <a href="https://codepen.io/cedric190703">@cedric190703</a>
-- <hr  size="6">
+<hr  size="6">
 <div style="margin-top: 30px" align="center">
    <img style="padding: 20px" class="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cedric190703&layout=compact&show_icons=true&theme=radical" alt="stats">
+</div>
+<hr  size="6">
+<div style="margin-top: 30px" align="center">
    <img style="padding: 20px" class="left" src="https://github-readme-stats.vercel.app/api?username=cedric190703&show_icons=true&theme=radical" alt="stats">
+</div>
+<hr  size="6">
+<div style="margin-top: 30px" align="center">
+   <img style="padding: 20px" class="left" src="https://streak-stats.demolab.com/?user=cedric190703&theme=dark" alt="stats">
 </div>
 <!---
 cedric190703/cedric190703 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
