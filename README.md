@@ -9,10 +9,6 @@
 </div>
 <hr  size="4">
 <div style="margin-top: 30px" align="center">
-   <img style="padding: 20px" class="left" src="https://github-readme-stats.vercel.app/api?username=cedric190703&show_icons=true&theme=radical" alt="stats">
-</div>
-<hr  size="4">
-<div style="margin-top: 30px" align="center">
    <img style="padding: 20px" class="left" src="https://streak-stats.demolab.com/?user=cedric190703&theme=dark" alt="stats">
 </div>
 <!---
