@@ -12,7 +12,10 @@
    <img style="padding: 20px" class="left" src="https://streak-stats.demolab.com/?user=cedric190703&theme=dark" alt="stats">
 </div>
 <hr  size="4">
-![snake gif](https://github.com/cedric190703/cedric190703/blob/output/github-contribution-grid-snake.gif)
+<div style="margin-top: 30px" align="center">
+   <img style="padding: 20px" class="left" src="https://github.com/cedric190703/cedric190703/blob/output/github-contribution-grid-snake.gif" alt="snake">
+</div>
+
 <!---
 cedric190703/cedric190703 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
