@@ -13,7 +13,7 @@
 </div>
 <hr  size="4">
 <div style="margin-top: 30px" align="center">
-   <img style="padding: 20px" class="left" src="https://github.com/cedric190703/cedric190703/blob/output/github-contribution-grid-snake.gif" alt="snake">
+   <img style="padding: 20px" class="left" src="https://github.com/cedric190703/cedric190703/blob/output/github-contribution-grid-snake-dark.svg" alt="snake">
 </div>
 
 <!---
