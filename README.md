@@ -1,6 +1,7 @@
 # Hi there 👋, I'm @cedric190703
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=24AAF7&width=435&lines=%F0%9F%92%BB+Computer+science+student;Intersted+in+AI%F0%9F%A4%96%2C+Blockchain%F0%9F%94%97;medical+tech%E2%9A%95%EF%B8%8F+and+finance%F0%9F%93%8A" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=24AAF7&width=435&lines=%F0%9F%92%BB+Computer+science+student;Interested+in+AI%F0%9F%A4%96%2C+Blockchain%F0%9F%94%97;medical+tech%E2%9A%95%EF%B8%8F+and+finance%F0%9F%93%8A" alt="Typing SVG" /></a>
+
 ---
 
 ## 📊 GitHub Stats
