@@ -1,5 +1,3 @@
-
-
 <!-- ✨ Ultra-Stylish Blue-Themed GitHub Profile README ✨ -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
@@ -12,14 +10,12 @@
 
 <!-- ========== F1 JAPANESE ANIME GIF (Centered) ========== -->
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHJrYzByZTkydmx0aDd5ZGtza3ZhbGdtc29vZWd2Y2E1OXRyMmFubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IV7MOCfnm85iRa/giphy.gif" width="400" alt="Anime GIF" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHZ0ZTdjdmdyOWY2bzQybWlrdmN4OWVzOW80MjFvOXJ2Y2htOGo0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IyRiAsl1Pczi6Y/giphy.gif" width="400" alt="Anime GIF" />
 </div>
 
 <!-- ========== TYPING ANIMATION (Blue Glow) ========== -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Orbitron&duration=3000&pause=1000&color=5bc0de&center=true&vCenter=true&width=600&lines=💻+Computer+Science+Student;🧠+AI+%7C+Blockchain+%7C+BioTech" alt="Typing animation" />
-  </a>
 </p>
 
 ---
