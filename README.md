@@ -6,17 +6,14 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Hi%20I'm%20Cédric&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff&color=0:1e3a8a,100:5bc0de" alt="Header" />
 </div>
-
+<p align="center">
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=24AAF7&width=435&lines=%F0%9F%92%BB+Computer+science+student;Interested+in+AI%F0%9F%A4%96%2C+Blockchain%F0%9F%94%97;medical+tech%E2%9A%95%EF%B8%8F+and+finance%F0%9F%93%8A" alt="Typing SVG" /></a>
+</p>
 
 <!-- ========== F1 JAPANESE ANIME GIF (Centered) ========== -->
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHZ0ZTdjdmdyOWY2bzQybWlrdmN4OWVzOW80MjFvOXJ2Y2htOGo0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IyRiAsl1Pczi6Y/giphy.gif" width="400" alt="Anime GIF" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWs3anB0Y2h1MHNnZzBsN3Q4MXUyOGVjZDNvcHR4djAwY2txY3N0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C3jsA7cCaW8dcsLz6H/giphy.gif" width="400" alt="Anime GIF" />
 </div>
-
-<!-- ========== TYPING ANIMATION (Blue Glow) ========== -->
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&duration=3000&pause=1000&color=5bc0de&center=true&vCenter=true&width=600&lines=💻+Computer+Science+Student;🧠+AI+%7C+Blockchain+%7C+BioTech" alt="Typing animation" />
-</p>
 
 ---
 
