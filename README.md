@@ -1,4 +1,5 @@
 
+
 <!-- ✨ Ultra-Stylish Blue-Themed GitHub Profile README ✨ -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
@@ -11,7 +12,7 @@
 
 <!-- ========== F1 JAPANESE ANIME GIF (Centered) ========== -->
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnZrcmkyOGVsMHBmb29rMmVpcGphemR3ZW51aDg4d3kweDNwemI0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QA17RwiPQMJQkeGw7B/giphy.gif" width="400" alt="F1 Japanese Anime GIF" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHJrYzByZTkydmx0aDd5ZGtza3ZhbGdtc29vZWd2Y2E1OXRyMmFubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IV7MOCfnm85iRa/giphy.gif" width="400" alt="Anime GIF" />
 </div>
 
 <!-- ========== TYPING ANIMATION (Blue Glow) ========== -->
