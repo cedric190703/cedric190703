@@ -10,26 +10,6 @@
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=24AAF7&width=435&lines=%F0%9F%92%BB+Computer+science+student;Interested+in+AI%F0%9F%A4%96%2C+Blockchain%F0%9F%94%97;medical+tech%E2%9A%95%EF%B8%8F+and+finance%F0%9F%93%8A" alt="Typing SVG" /></a>
 </p>
 
-<!-- ========== F1 JAPANESE ANIME GIF (Centered) ========== -->
-<div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWs3anB0Y2h1MHNnZzBsN3Q4MXUyOGVjZDNvcHR4djAwY2txY3N0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C3jsA7cCaW8dcsLz6H/giphy.gif" width="400" alt="Anime GIF" />
-</div>
-
----
-
-<!-- ========== ABOUT ME (Card Style) ========== -->
-<div align="center">
-  <div style="background: linear-gradient(135deg, #1e3a8a 0%, #3a7bd5 100%); padding: 20px; border-radius: 15px; width: 80%; margin: 0 auto; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);">
-    <h2 style="color: white; margin-bottom: 15px;">💻 About Me</h2>
-    <p style="color: white; text-align: left; margin: 0 auto; width: 90%;">
-      💡 <strong>Passionate about merging technology, biology, and finance</strong> to create impactful solutions.<br><br>
-      🧬 <strong>Focused on AI-driven medical tech, blockchain, and data science</strong> to push boundaries.<br><br>
-    </p>
-  </div>
-</div>
-
----
-
 <!-- ========== GITHUB INSIGHTS (Glassmorphism Cards) ========== -->
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
