@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Cédric%20Brzyski&fontSize=50&fontColor=ffffff&color=0:1e3a8a,100:5bc0de" />
-</div>
-
 # Hi, I'm Cédric 👋
 
 Computer Science student interested in:
