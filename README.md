@@ -36,9 +36,3 @@ Computer Science student interested in:
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
   </a>
 </p>
-
----
-
-<div align="center">
-  <img src="https://github.com/cedric190703/cedric190703/blob/output/github-contribution-grid-snake-dark.svg" />
-</div>
