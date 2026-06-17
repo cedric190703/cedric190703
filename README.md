@@ -1,44 +1,48 @@
-<!-- ✨ Ultra-Stylish Blue-Themed GitHub Profile README ✨ -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-
-<!-- ========== BLUE HEADER BAND (Animated Wave) ========== -->
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Hi%20I'm%20Cédric&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff&color=0:1e3a8a,100:5bc0de" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Cédric%20Brzyski&fontSize=50&fontColor=ffffff&color=0:1e3a8a,100:5bc0de" />
 </div>
 
-<!-- ========== GITHUB INSIGHTS (Glassmorphism Cards) ========== -->
+# Hi, I'm Cédric 👋
+
+Computer Science student interested in:
+- 🤖 Artificial Intelligence
+- 🧬 Bioinformatics & Biotechnology
+- ☁️ Cloud & Distributed Systems
+- 📊 Data Science
+
+---
+
+## GitHub Stats
+
 <div align="center">
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border-radius: 15px; padding: 15px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2); border: 1px solid rgba(255, 255, 255, 0.2);">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cedric190703&layout=compact&theme=transparent&hide_border=true&border_radius=10&langs_count=6&text_color=ffffff&title_color=5bc0de&icon_color=5bc0de&bg_color=00000000" alt="Top Languages" />
-    </div>
-  </div>
-  <div style="margin-top: 20px; background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border-radius: 15px; padding: 15px; width: fit-content; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2); border: 1px solid rgba(255, 255, 255, 0.2);">
-    <img src="https://streak-stats.demolab.com/?user=cedric190703&theme=transparent&hide_border=true&border_radius=10&fire=5bc0de&ring=5bc0de&dates=ffffff&currStreakLabel=5bc0de&sideLabels=5bc0de&currStreakNum=ffffff&sideNums=ffffff&bg_color=00000000" alt="GitHub Streak" />
-  </div>
-  <div style="margin-top: 20px;">
-    <img src="https://github.com/cedric190703/cedric190703/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-  </div>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cedric190703&layout=compact&theme=transparent" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=cedric190703&theme=transparent" />
 </div>
 
 ---
 
-<!-- ========== CONNECT WITH ME (Blue Buttons) ========== -->
+## Contact
+
+<p align="center">
+  <a href="mailto:cbrzyski2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/cedric-brzyski/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@cbrzyski2">
+    <img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/cedricbrzyski">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
+  </a>
+</p>
+
+---
+
 <div align="center">
-  <h2 style="color: #5bc0de; margin-bottom: 15px;">🌐 Connect With Me</h2>
-  <div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border-radius: 15px; padding: 15px; width: fit-content; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2); border: 1px solid rgba(255, 255, 255, 0.2); display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
-    <a href="mailto:cbrzyski2@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/cedric-brzyski/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://medium.com/@cbrzyski2">
-      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-    </a>
-    <a href="https://www.kaggle.com/cedricbrzyski">
-      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-    </a>
-  </div>
+  <img src="https://github.com/cedric190703/cedric190703/blob/output/github-contribution-grid-snake-dark.svg" />
 </div>
