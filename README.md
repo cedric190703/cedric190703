@@ -12,7 +12,6 @@ My current focus is on designing intelligent systems that combine large language
 - LLM Applications & RAG
 - AI Infrastructure & MLOps
 - Robotics & Autonomous Systems
-- Cloud Architecture
 - Bioinformatics & AI for Healthcare
 
 ---
@@ -25,7 +24,6 @@ I enjoy building end-to-end AI systems, including:
 - AI agents and orchestration frameworks
 - Retrieval-Augmented Generation (RAG) systems
 - Machine Learning pipelines
-- MLOps & cloud deployments
 - Backend APIs and distributed services
 
 ---
