@@ -26,20 +26,6 @@ I enjoy building end-to-end AI systems, including:
 - Machine Learning pipelines
 - Backend APIs and distributed services
 
----
-
-## GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cedric190703&layout=compact&theme=transparent" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=cedric190703&theme=transparent" />
-</div>
-
----
-
 ## Contact
 
 <p align="center">
