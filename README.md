@@ -1,6 +1,6 @@
 # Cédric Brzyski
 
-Computer Science Engineering student with a strong interest in building AI systems.
+Computer Science Engineer with a strong interest in building AI systems.
 
 My current focus is on designing intelligent systems that combine large language models, software engineering, cloud infrastructure and robotics.
 
